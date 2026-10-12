@@ -1,0 +1,13 @@
+{
+  "name": "klisten-modelroute",
+  "version": "0.1.0",
+  "description": "Read public model catalog metadata with freshness. No model execution or payments.",
+  "mcpServers": {
+    "modelroute": {
+      "httpUrl": "https://api.klisten.co.kr/mcp",
+      "includeTools": [
+        "modelroute_catalog"
+      ]
+    }
+  }
+}

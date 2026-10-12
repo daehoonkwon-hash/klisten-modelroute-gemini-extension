@@ -1,0 +1,1 @@
+2026-10-12: Gemini CLI 0.63.0 isolated installation PASS; mcp list Connected to production HTTPS; uninstall PASS. Direct MCP tools/list and calls (limit=1 offsets 0/1) PASS; invalid limit=51 rejected. No model/API payment. Native Gemini conversation NOT VERIFIED.
